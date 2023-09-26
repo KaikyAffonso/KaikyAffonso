@@ -1,11 +1,11 @@
-### Olá, Eu sou o Kaiky Affonso 😀
+Olá, Eu sou o Kaiky Affonso 😀
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiky_affonso)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-affonso/)
 
 ![KaikyAffonso GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikyAffonso&show_icons=true&theme=radical)
 
-### Tecnologias que estudo e utilizo 
+Tecnologias que estudo e utilizo 
 
 <div style= "display: inline_block"><br>
 <img align="center" alt="#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -20,4 +20,4 @@
 
 
 </div>
-<h5> Estudante de programação, apaixonado e dedicado aos estudos de tecnologia, com especialização em ASP.NET Razor Pages, comunicativo e responsável. Acredito que a educação pode transformar nossas vidas! </h5>
+ Estudante de programação, apaixonado e dedicado aos estudos de tecnologia, com especialização em ASP.NET Razor Pages, comunicativo e responsável. Acredito que a educação pode transformar nossas vidas! 
