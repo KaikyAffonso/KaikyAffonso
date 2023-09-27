@@ -3,7 +3,7 @@ Olá, Eu sou o Kaiky Affonso 😀
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiky_affonso)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-affonso/)
 
-![KaikyAffonso GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikyaffonso&show_icons=true&theme=radical)
+![kaikyaffonso GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikyaffonso&show_icons=true&theme=radical)
 
 ### Tecnologias que estudo e utilizo 
 
